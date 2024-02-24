@@ -1,2 +1,2 @@
-## Attention
-# using brew to install fltk before running
+# !! Attention !!
+## using brew to install fltk before running
